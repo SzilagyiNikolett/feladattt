@@ -1,0 +1,2 @@
+# feladattt
+python,ip
